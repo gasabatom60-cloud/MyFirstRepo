@@ -4,3 +4,4 @@ My Personal and Academic Goals for Next Year
 - Complete my academic courses successfully
 - Work on real-world projects
 - Learn version control and collaboration
+- Learn GitHub deeply
